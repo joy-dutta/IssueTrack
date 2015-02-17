@@ -1,4 +1,9 @@
-This is your new Play 2.0 application
+This is your Play 2.0 application on Issue Tracking System
 =====================================
+
+Feature Set Version1:
+18/02/2015 :
+
+User can login in the system if his username and password is in DB
 
 This file will be packaged with your application, when using `play dist`.
